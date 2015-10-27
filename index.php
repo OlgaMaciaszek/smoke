@@ -1,5 +1,5 @@
 <?php
 
-echo "Thanks for attending LinuxCon2015";
+echo "Thanks for attending JavaOne 2015";
 
 ?>
